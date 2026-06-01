@@ -1,26 +1,22 @@
-# Business-Portfolio: Marketing & Data Analysis
+# Somethin’s Brewin’ - Strategic Marketing Proposal & Analytics
 
-## Project 1: Somethin’s Brewin’ - Expansion Strategy
-A comprehensive marketing proposal for scaling organic coffee operations in Downtown, applying data-driven methodologies to consumer behavior.
+## 1. The Strategic Challenge
+Downtown market is saturated with commercial coffee chains. Our goal was to penetrate this market by shifting consumer behavior from "habitual buying" to "value-based organic consumption" using a digital-first approach.
 
-### Strategic Framework (5A Journey)
+## 2. Execution Strategy (The 5A Journey)
+We implemented the 5A framework to guide the customer journey, prioritizing mobile engagement via our app to ensure efficiency and loyalty. 
+
 | Stage | Objective | Execution Tool |
 |-------|-----------|----------------|
-| **Awareness** | Penetrate the market crowd | Teaser Content |
+| **Awareness** | Penetrate the crowd | Teaser Content |
 | **Appeal** | Build quality trust | Cinematic Visuals |
 | **Ask** | Drive curiosity | Targeted Questions |
 | **Act** | Ensure conversion | Free Trial App Offer |
 | **Advocate** | Create loyalty | Referral Programs |
 
-### Key Metrics & Goal Alignment
-- **Objective:** Acquire 1,000 new customers in the first 90 days.
-- **Methodology:** Goal and Task budgeting to maximize ROI and minimize waste.
-- **Tech Integration:** Mobile-first approach utilizing Geofencing for real-time customer engagement.
----
-## About the Author
-**Moheeb Saleh Mohammed Ali Al-Halik**  
-Business Administration Student & Aspiring Data Analyst.  
-*Passionate about bridging the gap between strategic management and data-driven insights.*  
-[[LinkedIn Profile Link](https://www.linkedin.com/in/مهيب-الحلك-aa544b151?utm_source=share_via&utm_content=profile&utm_medium=member_android)] | [GitHub Profile]
----
-*Prepared by Moheeb Saleh Mohammed Ali Al-Halik | Principles of Marketing Portfolio*
+## 3. Performance & Impact (Data-Driven Validation)
+The following dashboard represents the real-world application of the above strategy. By utilizing SQL-based analytics, we tracked the campaign’s impact against our defined SMART goals over the first 90 days.
+
+![Data Analysis Results](images/Screenshot_٢٠٢٦-٠٦-٠١-٠٧-٠٤-٥٢-٨١٤_com.android.chrome_2.jpg)
+
+*Key Insight: The alignment of the 'Free Trial' campaign with the 'Mobile-first' strategy directly resulted in exceeding our customer acquisition targets.*
